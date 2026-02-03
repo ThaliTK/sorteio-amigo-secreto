@@ -124,7 +124,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ## 👨‍💻 Autor
 
 **ThalidevTK**
-- GitHub: [@thalidevTK](https://github.com/thalidevTK)
+- GitHub: [@ThaliTK](https://github.com/ThaliTK)
 
 ---
 
